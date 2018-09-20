@@ -241,7 +241,7 @@ If you like the project support it with a donation of your choice or become a ba
 
 <br>
 
-[![BrowserStack](https://user-images.githubusercontent.com/11614725/39406324-4ef89c40-4bb5-11e8-809a-113d9432e5a5.png)](https://www.browserstack.com)<br/>
+[![BrowserStack](https://user-images.githubusercontent.com/11614725/39406324-4ef89c40-4bb5-11e8-809a-113d9432e5a5.png)](https://www.browserstack.com) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/grapesjs.svg)](https://www.staging.guardrails.io)<br/>
 Thanks to [BrowserStack](https://www.browserstack.com) for providing us browser testing services
 
 
